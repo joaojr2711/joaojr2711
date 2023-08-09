@@ -29,8 +29,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaojr2711&theme=dr%C3%A1cula&layout=compact" />
 </a>
 
-[![@joaojr2711's Holopin board](https://holopin.me/joaojr2711)](https://holopin.io/@joaojr2711)
-
 
 <h3>🤝 Conecte-se comigo</h3>
 
